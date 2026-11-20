@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sanjana Sivanandam! 👋
 
-<!--
-**sanjana-sivanandam/sanjana-sivanandam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science Student | Python | SQL | Machine Learning | Deep Learning
 
-Here are some ideas to get you started:
+I'm an Integrated MSc Data Science student passionate about exploring data, building intelligent systems, and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Areas of Interest
+- Data Science and Data Analytics
+- Machine Learning
+- Deep Learning
+- Data Visualization
+- SQL and Database Management
+
+### 🛠️ Technical Skills
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn
+- **Deep Learning:** TensorFlow, Keras
+- **Tools:** Jupyter Notebook, Google Colab, Git, GitHub
+
+### 📌 What I'm Working On
+- Building practical Data Science projects
+- Exploring Machine Learning algorithms
+- Developing Deep Learning applications
+- Strengthening my SQL and analytical skills
+
+### 🎯 Career Goal
+Aspiring Data Scientist / Data Analyst interested in applying data-driven approaches to real-world challenges.
+
+### 📫 Connect With Me
+- GitHub: https://github.com/sanjana-sivanandam
